@@ -1,0 +1,18 @@
+Je gère la création de la tâche (Create)
+A la validation (event) du formulaire (élément)
+récupération et affichage (action) de la tâche (élément) 
+
+Je gère l'affichage de la tâche (Read)
+A la validation (event) du formulaire (élément)
+Création et affichage (action) d'un élément HTML (élément) contenant la valeur renseignée
+
+Dans la div list-items, (élément)
+je place la tâche item (action)
+
+Je gère la suppression de la tâche (delete)
+Au clic (event) sur l'icône Supprimer (élément)
+la tâche (élément) est retirée de la page (action)
+
+Je gère la modification de la tâche
+Au clic (event) sur l'icône check(élément)
+la tâche (élément) est rayée (action)
